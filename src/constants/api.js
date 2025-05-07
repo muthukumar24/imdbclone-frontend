@@ -1,0 +1,1 @@
+export const API_URL = 'https://imdb-clone-backend-joh9.onrender.com';
